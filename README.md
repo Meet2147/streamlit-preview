@@ -148,7 +148,7 @@ Contributions are welcome\!
 File issues, bugs, or feature requests here:
 
 👉 **GitHub Issues:**
-[https://github.com//streamlit-preview/issues](https://github.com//streamlit-preview/issues)
+[https://github.com//streamlit-preview/issues](https://github.com/Meet2147/streamlit-preview/issues)
 
 -----
 

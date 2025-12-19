@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="media/128_1.png" alt="Streamlit Preview" height="60">
+  <img src="128_1.png" alt="Streamlit Preview" height="60">
 </p>
 
 <p align="center">

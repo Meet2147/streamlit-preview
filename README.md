@@ -141,3 +141,22 @@ Every save triggers a reload. **No restart required.**
 </p>
 
 -----
+
+# 🧰 Contributing
+
+Contributions are welcome\!
+File issues, bugs, or feature requests here:
+
+👉 **GitHub Issues:**
+[https://github.com//streamlit-preview/issues](https://github.com//streamlit-preview/issues)
+
+-----
+
+# ⭐ Feedback & Reviews
+
+If you enjoy this extension, please consider leaving a ⭐⭐⭐⭐⭐ review\!
+
+👉 **Marketplace:**
+[https://marketplace.visualstudio.com/items?itemName=mjethwa-streamlit.streamlit-preview](https://marketplace.visualstudio.com/items?itemName=mjethwa-streamlit.streamlit-preview)
+
+-----

@@ -79,3 +79,65 @@ One-click sharing using:
 
 ```bash
 pip install streamlit
+````
+
+-----
+
+# 📦 Installation
+
+## From Marketplace
+
+1.  Open VS Code
+2.  Go to Extensions
+3.  Search for: Streamlit Preview
+4.  Click Install
+
+## Or install via VSIX
+
+```bash
+code --install-extension streamlit-preview.vsix
+```
+
+-----
+
+# 🛠 Usage
+
+### ▶️ 1. Open Your Streamlit Script
+
+Open `app.py` or any file that runs Streamlit.
+
+### ▶️ 2. Start Preview
+
+**Command Palette** →
+
+`Streamlit: Preview Current File`
+
+### ▶️ 3. Edit & Save
+
+Every save triggers a reload. **No restart required.**
+
+### ⏹ 4. Stop Preview
+
+`Streamlit: Stop Preview`
+
+-----
+
+# ⚙️ Settings
+
+| Setting | Description |
+| :--- | :--- |
+| `streamlitPreview.port` | Default Streamlit port (8501) |
+| `streamlitPreview.autoStart` | Auto-start preview when opening a Streamlit file |
+| `streamlitPreview.openInSidePanel` | Open preview inside sidebar panel |
+
+-----
+
+# 🖼 Screenshots
+
+### 📌 Streamlit Preview inside VS Code
+
+<p align="center">
+  <img src="S3.png" width="80%">
+</p>
+
+-----

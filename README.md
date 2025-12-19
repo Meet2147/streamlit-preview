@@ -137,7 +137,7 @@ Every save triggers a reload. **No restart required.**
 ### 📌 Streamlit Preview inside VS Code
 
 <p align="center">
-  <img src="S3.png" width="80%">
+  <img src="S4.png" width="80%">
 </p>
 
 -----
